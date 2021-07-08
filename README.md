@@ -1,2 +1,2 @@
 # NLP Notes
-NLP Course contents
+NLP Course contents by [Kathirmani Sukumar](https://www.linkedin.com/in/skathirmani/)
